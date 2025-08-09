@@ -117,4 +117,3 @@ This project is open-source and available under the MIT License.
 **Ritesh Macwan**  
 Backend Specialist | WebRTC Enthusiast  
 [GitHub](https://github.com/ritesh-7299) • [LinkedIn](https://www.linkedin.com/in/ritesh-macwan-8a70891ba)
-EOF
